@@ -4,8 +4,8 @@ export PATH
 #=======================================================================#
 #   System Supported:  CentOS 6+ / Debian 7+ / Ubuntu 12+               #
 #   Description: L2TP VPN Auto Installer                                #
-#   Author: Teddysun <i@teddysun.com>                                   #
-#   Intro:  https://teddysun.com/448.html                               #
+#   Author: 原作秋水逸冰 暗网导航修改                                     #
+#   暗网导航:互联网找不到的网站 www.anwangdaohang.com                     #
 #=======================================================================#
 cur_dir=`pwd`
 
@@ -654,8 +654,8 @@ finally(){
     echo "###############################################################"
     echo "# L2TP VPN Auto Installer                                     #"
     echo "# System Supported: CentOS 6+ / Debian 7+ / Ubuntu 12+        #"
-    echo "# Intro: https://www.anwangdaohang.com                        #"
-    echo "# Author: Teddysun <i@teddysun.com>                           #"
+    echo "# Intro: 暗网导航:互联网找不到的网站 www.anwangdaohang.com      #"
+    echo "# Author: 原作秋水逸冰 暗网导航修改                             #"
     echo "###############################################################"
     echo "If there is no [FAILED] above, you can connect to your L2TP "
     echo "VPN Server with the default Username/Password is below:"
@@ -683,8 +683,8 @@ l2tp(){
     echo "###############################################################"
     echo "# L2TP VPN Auto Installer                                     #"
     echo "# System Supported: CentOS 6+ / Debian 7+ / Ubuntu 12+        #"
-    echo "# Intro: https://teddysun.com/448.html                        #"
-    echo "# Author: Teddysun <i@teddysun.com>                           #"
+    echo "# 暗网导航:互联网找不到的网站 www.anwangdaohang.com             #"
+    echo "# 原作秋水逸冰 暗网导航修改                                     #"
     echo "###############################################################"
     echo
     rootness
